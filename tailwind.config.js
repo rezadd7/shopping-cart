@@ -8,6 +8,7 @@ module.exports = {
       'IpA': '616px',
       'md': '768px',
       'desktop': '1280px',
+      'tablet': '1000px',
     },
     boxShadow: {
       '3xl': '8px 8px 8px rgba(0, 0, 0, 0.3),0px 5px 24px rgba(149, 157, 165, 0.4)',
